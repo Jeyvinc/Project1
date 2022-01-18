@@ -1,0 +1,30 @@
+body{
+    background-image: url(./beach.jpg);
+   color: rgb(37, 37, 37);
+   text-align: center;
+   font-family: 'Hind Siliguri', sans-serif;
+   margin-top: 1.5%;
+}
+img{
+    border: dimgrey solid 5px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+hr{
+    color: khaki;
+    width: 400px;
+}
+a{
+    text-decoration: none;
+    color: rgb(37, 37, 37);
+}
+div{
+ height: 735px;
+    width: 500px;
+    background-color: lightyellow;
+   opacity: 0.7; 
+  margin: auto;
+  
+}
+li{
+list-style: none;}
